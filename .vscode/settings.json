@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Azkaban",
+        "Baseband",
+        "curorb",
+        "golevelup",
+        "nestjs",
+        "rabbitmq",
+        "typeorm"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        // "source.fixAll.stylelint": true
+    },
+    "eslint.format.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+}
